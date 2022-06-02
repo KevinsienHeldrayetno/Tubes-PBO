@@ -4,6 +4,9 @@ Tugas Besar Pemograman Berorientasi Objek
 | Nama  | NIM |
 | ------------- | ------------- |
 | Kevinsien Heldrayetno  | 120140174  |
+| JOHANNES AGUSTO LILIPALY  | 120140093  |
+| ALBI R. SUSENO | 120140095 |
+
 # Cara Memainkan
 Download source code dalam repository ini dan run py script
 ```
